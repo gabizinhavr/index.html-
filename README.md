@@ -29,7 +29,7 @@ Copy code
 │       └── cadastro.webp
 └── README.md               # Este arquivo
 Como Executar/Visualizar
-Clone ou baixe o repositório: git clone https://github.com/seuusuario/plataforma-ong.git (substitua pelo seu link real).
+Clone ou baixe o repositório: git clone [https://github.com/gabizinhavr/index.html-].
 Abra qualquer arquivo HTML (ex.: index.html) em um navegador web moderno (Chrome, Firefox, etc.).
 Navegue entre as páginas usando os links no <nav>.
 Nota: Como esta é a primeira entrega focada em HTML5, não há CSS ou JavaScript avançado. O layout é básico (sem estilos visuais), mas pronto para integração futura.
