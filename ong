@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONG Solidária - Página Inicial</title>
+    <meta name="description" content="Conheça a ONG Solidária: missão, visão, valores e informações de contato para apoiar projetos sociais.">
+    <meta name="keywords" content="ONG, solidariedade, projetos sociais, voluntariado, doações">
+</head>
+<body>
+    <header>
+        <h1>ONG Solidária</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="sobre">
+            <h2>Sobre Nós</h2>
+            <p>A ONG Solidária é dedicada a promover inclusão social e sustentabilidade em comunidades carentes.</p>
+            <h3>Missão</h3>
+            <p>Transformar vidas através de projetos educacionais e ambientais.</p>
+            <h3>Visão</h3>
+            <p>Ser referência em solidariedade e impacto social no Brasil.</p>
+            <h3>Valores</h3>
+            <ul>
+                <li>Transparência</li>
+                <li>Inclusão</li>
+                <li>Sustentabilidade</li>
+            </ul>
+            <picture>
+                <source srcset="file:///C:/Users/Usuário/Downloads/ONG.jpg" type="image/webp">
+                <img src="file:///C:/Users/Usuário/Downloads/ONG.jpg" alt="Logo da ONG Solidária" width="300" height="200">
+            </picture>
+        </section>
+        
+        <section id="contato">
+            <h2>Informações de Contato</h2>
+            <address>
+                <p>Email: contato@ongsolidaria.org</p>
+                <p>Telefone: (41) 99999-9999</p>
+                <p>Endereço: Rua da Solidariedade, 123, Paraná - PR</p>
+            </address>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 ONG Solidária. Gabrielle Vernille Rosa. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
